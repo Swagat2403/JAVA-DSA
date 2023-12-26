@@ -1,1 +1,1 @@
-# Let's learn JAVA from scratch
+# Let's get the basics down
