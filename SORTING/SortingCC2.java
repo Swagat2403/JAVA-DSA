@@ -1,3 +1,4 @@
+//selection sort
 import java.util.*;
 public class SortingCC2 {
     public static void InsertionSort(int arr[]){
